@@ -1,0 +1,15 @@
+{
+  "name": "gdunk-epel",
+  "version": "0.1.0",
+  "author": "gdunk",
+  "summary": "Configures EPEL repo",
+  "license": "Apache-2.0",
+  "source": "https://github.com/gdunk/gdunk-epel",
+  "project_page": "https://github.com/gdunk/gdunk-epel",
+  "issues_url": "https://github.com/gdunk/gdunk-epel/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
